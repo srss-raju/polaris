@@ -1,0 +1,7 @@
+${AnsiColor.BRIGHT_BLUE}    ____       __     ${AnsiColor.BRIGHT_GREEN} _ ${AnsiColor.BRIGHT_BLUE}__  __      ${AnsiColor.BRIGHT_GREEN}    _ ${AnsiColor.BRIGHT_BLUE}__          __  
+${AnsiColor.BRIGHT_BLUE}   / __ \___  / /___  ${AnsiColor.BRIGHT_GREEN}(_)${AnsiColor.BRIGHT_BLUE} /_/ /____  ${AnsiColor.BRIGHT_GREEN}   (_)${AnsiColor.BRIGHT_BLUE} /   ____ _/ /_ 
+${AnsiColor.BRIGHT_BLUE}  / / / / _ \/ / __ \/ / __/ __/ _ \ ${AnsiColor.BRIGHT_BLUE}  / / /   / __ `/ __ \
+${AnsiColor.BRIGHT_BLUE} / /_/ /  __/ / /_/ / / /_/ /_/  __/ ${AnsiColor.BRIGHT_BLUE} / / /___/ /_/ / /_/ /
+${AnsiColor.BRIGHT_BLUE}/_____/\___/_/\____/_/\__/\__/\___/  ${AnsiColor.BRIGHT_BLUE}/_/_____/\__,_/_.___/ 
+${AnsiColor.WHITE}===========================================================
+${AnsiColor.BRIGHT_BLUE}:: ${AnsiColor.BRIGHT_GREEN}${spring.application.name}${AnsiColor.BRIGHT_BLUE} running ${AnsiColor.BRIGHT_GREEN}Spring Boot v${spring-boot.version}${AnsiColor.BRIGHT_BLUE} ::${AnsiColor.DEFAULT}
